@@ -11,7 +11,7 @@
 
 .navigation{
     width: 100%;
-    padding: 35px;
+    padding: 30px;
     background-color: #315BC6;
     color: white;
 }
@@ -34,12 +34,13 @@
 .footer{
     background-color: #315BC6;
     color: white;
-    padding: 60px 0;
+    padding: 50px;
+    width: 100%;
 }
 
 .footer ul{
    display: inline-block;
    vertical-align: top;
-   padding: 70px;
+   padding: 35px;
 }
 
